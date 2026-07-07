@@ -113,8 +113,8 @@ If you found my work helpful, feel free to support:
 
 ### One-time
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/vaproh)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/vaproh)
+<a href="https://ko-fi.com/vaproh"><img height="50" src="https://ko-fi.com/img/allbuttons/KOFI_ICON.png" />  <img height="40" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+<a href="https://paypal.me/vaproh"><img height="50" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" />  <img height="40" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 
 ### Crypto
 
