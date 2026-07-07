@@ -42,7 +42,7 @@ Comfortable with autonomous coding agents, AI pair programming, and agentic work
 
 ## 📂 Recent Activity
 
-![Activity Graph](https://github-readme-activity-graph.demolab.com/graph?username=Vaproh&theme=github&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaproh&theme=github&hide_border=true)
 
 ## 🌐 Socials
 
@@ -73,8 +73,8 @@ If you found my work helpful, feel free to support:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.demolab.com/api?username=Vaproh&theme=github&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.demolab.com/api/top-langs/?username=Vaproh&theme=github&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaproh&theme=github&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaproh&theme=github&hide_border=true&layout=compact)
 
 ---
 
