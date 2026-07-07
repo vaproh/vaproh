@@ -32,6 +32,8 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F4040?style=flat&logo=caddy&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-34495e?style=flat&logo=gitea&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
