@@ -33,13 +33,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-## 📊 Profile Views
+## 🤖 AI & Agentic Coding
 
-![Profile Views](https://visitor-badge.la1.dev1.olbrush.com/?username=Vaproh&label=PROFILE+VIEWS&leftColor=%234F46E5&rightColor=%23E5E7EB&countColor=%239B59B6&style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-007ACC?style=flat&logo=github-copilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6C37?style=flat&logo=anthropic&logoColor=white)
+
+Comfortable with autonomous coding agents, AI pair programming, and agentic workflows.
 
 ## 📂 Recent Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaproh&theme=github&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.demolab.com/graph?username=Vaproh&theme=github&hide_border=true)
 
 ## 🌐 Socials
 
@@ -70,8 +73,8 @@ If you found my work helpful, feel free to support:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaproh&theme=github&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaproh&theme=github&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.demolab.com/api?username=Vaproh&theme=github&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.demolab.com/api/top-langs/?username=Vaproh&theme=github&hide_border=true&layout=compact)
 
 ---
 
