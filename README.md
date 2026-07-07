@@ -21,10 +21,17 @@
 ![CamoFox](https://img.shields.io/badge/CamoFox-2d2d2d?style=flat&logo=python&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat&logo=htmx&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=flat&logo=aiohttp&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-00B4D8?style=flat&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4C2A85?style=flat&logo=beautifulsoup&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-FF6F61?style=flat&logo=python&logoColor=white)
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
 **DevOps & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -34,6 +41,8 @@
 ![Gitea](https://img.shields.io/badge/Gitea-34495e?style=flat&logo=gitea&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-000000?style=flat&logo=fail2ban&logoColor=white)
+![CrowdSec](https://img.shields.io/badge/CrowdSec-1E1E2E?style=flat&logo=crowdsec&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
