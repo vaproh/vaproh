@@ -48,10 +48,6 @@
 
 Comfortable with autonomous coding agents, AI pair programming, and agentic workflows.
 
-## 📂 Recent Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaproh&theme=github&hide_border=true)
-
 ## 🌐 Socials
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=protonmail&logoColor=white)](mailto:vaproh@proton.me)
@@ -78,6 +74,10 @@ If you found my work helpful, feel free to support:
 **Litecoin (LTC)** `LXYZJ754RdVXzLkoKVA91wTYjYfRyxQ9pA`
 
 **Zcash** `t1bFWcooKThyQjQzrJACXXCYbNZLS7QUzmF`
+
+## 📂 Recent Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaproh&theme=github&hide_border=true)
 
 ## 📈 GitHub Stats
 
