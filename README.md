@@ -37,6 +37,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Systemd](https://img.shields.io/badge/Systemd-000000?style=flat&logo=systemd&logoColor=white)
 
 ## 🤖 AI & Agentic Coding
 
