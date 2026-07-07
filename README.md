@@ -84,8 +84,8 @@
 
 ## 🤖 AI & Agentic Coding
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-007ACC?style=flat&logo=github-copilot&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-FF6C37?style=flat&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-007ACC?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6C37?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Opencode](https://img.shields.io/badge/Opencode-7C3AED?style=for-the-badge&logo=opencode&logoColor=white)
 
