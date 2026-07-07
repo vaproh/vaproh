@@ -86,6 +86,8 @@
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-007ACC?style=flat&logo=github-copilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-FF6C37?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Opencode](https://img.shields.io/badge/Opencode-7C3AED?style=for-the-badge&logo=opencode&logoColor=white)
 
 Comfortable with autonomous coding agents, AI pair programming, and agentic workflows.
 
@@ -99,11 +101,11 @@ Comfortable with autonomous coding agents, AI pair programming, and agentic work
 
 ## 🌐 Socials
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=protonmail&logoColor=white)](mailto:vaproh@proton.me)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/vaproh)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/575555247557312512)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Vaproh_)
-[![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/vaproh.bsky.social)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vaproh@proton.me)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vaproh)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/575555247557312512)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Vaproh_)
+[![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/vaproh.bsky.social)
 
 ---
 
