@@ -73,8 +73,9 @@ If you found my work helpful, feel free to support:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaproh&theme=github&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaproh&theme=github&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaproh&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaproh&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+![Streak](https://streak-stats.demolab.com?user=vaproh&theme=onedark&hide_border=true)
 
 ---
 
